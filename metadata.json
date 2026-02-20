@@ -1,0 +1,9 @@
+{
+  "name": "Nexus Core AI",
+  "description": "A high-security, local-first hands-free AI assistant for Android (S25 Ultra) designed for users with mobility disabilities. Features voice control, macro scheduling, and automated harvesting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
